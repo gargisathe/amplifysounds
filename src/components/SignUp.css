@@ -1,0 +1,9 @@
+.icon img {
+    max-width: 385px;
+    padding-right: 7px;
+}
+
+span {
+    font: 'Roboto', sans-serif;
+    font-weight: 400;
+}
